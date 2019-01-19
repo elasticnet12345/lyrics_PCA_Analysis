@@ -36,3 +36,5 @@ PCAで二次元空間で表示する.
 $ python PCA.py
 ```
 
+<img src="img/Nana-vs-Yukari.png" width=50%>
+<img src="img/Saburou-vs-Yukari.png" width=50%>
